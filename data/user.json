@@ -1,0 +1,12 @@
+[   {"id":1,"username":"santo","password":"santo123","fullname":"santo gondrong","email":"santo@gmail.com"},
+    {"id":2,"username":"rahardian","password":"rahardian123","fullname":"reza rahardian","email":"rahardian@gmail.com"},
+    {"id":3,"username":"yura","password":"yura123","fullname":"yura yunita","email":"yura@gmail.com"},
+    {"id":4,"username":"geri","password":"geri123","fullname":"geri pangestu","email":"geri@gmail.com"},
+    {"id":6,"username":"ramadhan","password":"ramadhan123","fullname":"iqbal ramadhan","email":"ramdhan@gmail.com"},
+    {"id":7,"username":"ozil","password":"ozil123","fullname":"ozil putra","email":"ozil@gmail.com"},
+    {"id":8,"username":"taulana","password":"taulana123","fullname":"taulana marana","email":"taulana@gmail.com"},
+    {"id":9,"username":"sulis","password":"sulis123","fullname":"sulistina","email":"sulis@gmail.com"},
+    {"id":10},
+    {"id":11,"username":"meri","password":"meri123","fullname":"meri","email":"meri@gmail.com"},
+    {"id":12,"username":"","password":"","fullname":"","email":""},
+    {"id":13}]
